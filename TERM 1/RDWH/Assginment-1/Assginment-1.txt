@@ -1,0 +1,8 @@
+1. Upload all attached Csv files in SQL Server or in preferred SQL  Software system.
+Note: Step 2 onwards take screen shot of complete screen paste in word doc to submit
+2. Run select query's on all tables one by one and you should able to see record count of each table same as no. of records available in source csv files. 
+3. Take screenshot of datatypes of all tables one by one
+4. write script to create Primary key and Foreign key relationship between  possible tables
+5. Generate database diagram of same and take screen shot
+
+Please complete this assignment properly as next assignment is depends upon this assignment
